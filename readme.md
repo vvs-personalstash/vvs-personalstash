@@ -28,7 +28,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Viral+Verma">「 Google Me 」</a>
     <br>
     「 I am a avid Flutter Developer Currently working on Django and GO from <b>India</b> 」
     <br>
@@ -143,9 +143,9 @@
 
 <a> 
     <a href="https://github.com/vvs-personalstash"><img alt="Viral Verma's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vvs-personalstash&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/vvs-personalstash"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vvs-personalstash&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/vvs-personalstash"><img alt="Viral Verma's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vvs-personalstash&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vvs-personalstash&custom_title=Viral%20Verma's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Viral's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vvs-personalstash&custom_title=Viral%20Verma's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
